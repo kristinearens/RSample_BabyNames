@@ -33,7 +33,7 @@ RSample_BabyNames/
 
 Datafile was pulled from the US Government website.
 Data contains baby names from social security card applications
-[title](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
+[Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
 
 
 ## Additional Documentation
