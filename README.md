@@ -8,16 +8,9 @@
 - [VERSIONING](#versioning)
 
 ## Project Title 
-```diff
-- *Baby Name Trends*
-```
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-```
+# *Baby Name Trends*
+
 ## Description
 
 Evaluate data file to determine trends in baby names.
