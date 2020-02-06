@@ -9,7 +9,7 @@
 
 ## Project Title
 
-** Baby Name Trends ** 
+**Baby Name Trends** 
 
 ## Description
 
