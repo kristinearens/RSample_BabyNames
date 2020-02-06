@@ -8,7 +8,7 @@
 - [VERSIONING](#versioning)
 
 ## Project Title
-# *Baby Name Trends* 
+<span style="color:red"> # *Baby Name Trends* </span>
 
 ## Description
 
