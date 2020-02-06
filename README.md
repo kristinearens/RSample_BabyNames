@@ -9,7 +9,7 @@
 
 ## Project Title 
 ```diff
-#- *Baby Name Trends*
+- *Baby Name Trends*
 ```
 
 ```diff
