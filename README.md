@@ -7,8 +7,8 @@
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 - [VERSIONING](#versioning)
 
-## Project Title
-<span style="color:red"> # *Baby Name Trends* </span>
+## Project Title 
+#- *Baby Name Trends*
 
 ## Description
 
