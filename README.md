@@ -9,7 +9,7 @@
 
 ## Project Title
 
-**Baby Name Trends** 
+<p align=center> **#Baby Name Trends** </p> 
 
 ## Description
 
